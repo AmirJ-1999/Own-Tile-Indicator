@@ -1,0 +1,13 @@
+{
+  "name": "Own Tile Indicator",
+  "version": "1.0.0",
+  "author": "Mafaboss",
+  "repo": "https://github.com/AmirJ-1999/Own-Tile-Indicator",
+  "contactEmailAddress": "amirjawad79@gmail.com",
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": true,
+  "requiredDependencies": {},
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": []
+}
